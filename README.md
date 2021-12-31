@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Metaplex is a protocol built on top of Solana that allows:
+APEX WOLFE is a protocol built on top of Metaplex/Solana that allows:
 
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;
@@ -14,7 +14,7 @@ Metaplex is comprised of two core components: an on-chain program, and a self-ho
 
 ## Important NOTE
 
-Metaplex now follows a release versioning process called semantic versioning. If you are making a new market place, launching a candy machine or any live project that will handle real money, we recommend using a release tag. Using a release tag will ensure that new changes don't break your UI.
+APEX WOLFE now follows a release versioning process called semantic versioning. If you are making a new market place, launching a candy machine or any live project that will handle real money, we recommend using a release tag. Using a release tag will ensure that new changes don't break your UI.
 
 https://github.com/metaplex-foundation/metaplex/releases
 
@@ -46,7 +46,7 @@ https://docs.metaplex.com/
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
+$ git clone https://github.com/jpburns82/metaplex.git
 $ cd metaplex/js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
@@ -59,13 +59,7 @@ Navigate to `http://localhost:3000/` to explore the deployed application.
 The Rust programs will soon be added to this repo with JavaScript
 bindings that allow interactivity.
 
-## Community
 
-We have a few channels for contact:
-
-- [Discord](https://discord.gg/metaplex)
-- [@metaplex](https://twitter.com/metaplex) on Twitter
-- [GitHub Issues](https://github.com/metaplex-foundation/metaplex/issues)
 
 # Protocol
 
