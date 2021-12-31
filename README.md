@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Metaplex is a protocol built on top of Solana that allows:
+APEX WOLFE is a protocol built on top of Solana that allows:
 
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;
@@ -59,13 +59,7 @@ Navigate to `http://localhost:3000/` to explore the deployed application.
 The Rust programs will soon be added to this repo with JavaScript
 bindings that allow interactivity.
 
-## Community
 
-We have a few channels for contact:
-
-- [Discord](https://discord.gg/metaplex)
-- [@metaplex](https://twitter.com/metaplex) on Twitter
-- [GitHub Issues](https://github.com/metaplex-foundation/metaplex/issues)
 
 # Protocol
 
