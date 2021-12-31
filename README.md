@@ -47,7 +47,7 @@ Clone the repo, and run `yarn start` to deploy.
 
 ```bash
 $ git clone https://github.com/jpburns82/APEXWOLFE.git
-$ cd metaplex/js
+$ cd APEXWOLFE/js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
 ```
