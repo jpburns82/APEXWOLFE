@@ -4,7 +4,7 @@
   </a>
 </p>
 
-APEX WOLFE is a protocol built on top of Solana that allows:
+APEX WOLFE is a protocol built on top of Metaplex/Solana that allows:
 
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;
@@ -46,7 +46,7 @@ https://docs.metaplex.com/
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
+$ git clone https://github.com/jpburns82/metaplex.git
 $ cd metaplex/js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
