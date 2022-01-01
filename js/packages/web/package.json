@@ -76,7 +76,7 @@
     "type": "git",
     "url": "https://github.com/jpburns82/APEXWOLFE.git"
   },
-  "homepage": ".",
+  "homepage": "apexwolfe.io",
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
