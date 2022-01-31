@@ -32,8 +32,13 @@ export const SalesListView = () => {
     <>
       <Banner
         src="/main-banner.svg"
+<<<<<<< HEAD
         headingText="APEX WOLFE NFT MARKETPLACE"
         subHeadingText="Built for Creators"
+=======
+        headingText="APEX WOLFE NFT MARKETPLACE."
+        subHeadingText="Buy exclusive APEX WOLFE NFTs."
+>>>>>>> cc36095d5aa53c8a5ea274f92e798a7b44883bef
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
         useBannerBg
       />

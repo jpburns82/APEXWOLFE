@@ -242,9 +242,13 @@ const CategoryStep = (props: {
         <h2>Create a new item</h2>
         <p>
           First time creating on APEX WOLFE?{' '}
+<<<<<<< HEAD
           <a href="https://docs.metaplex.com/create-store/sell" target="_blank" rel="noreferrer">
             Read our creators’ guide.
           </a>
+=======
+          <a href="#">Read our creators’ guide.</a>
+>>>>>>> cc36095d5aa53c8a5ea274f92e798a7b44883bef
         </p>
       </Row>
       <Row justify={width < 768 ? 'center' : 'start'}>
