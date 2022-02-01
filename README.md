@@ -42,7 +42,7 @@ git rebase new_version_branch
 If you want to deep dive on the Architecture, you can do so here:
 
 https://docs.metaplex.com/
->>>>>>> cc36095d5aa53c8a5ea274f92e798a7b44883bef
+
 
 ## Installing
 
