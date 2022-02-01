@@ -718,7 +718,11 @@ const CategoryStep = (props: {
       <Row className="call-to-action">
         <h2>List an item</h2>
         <p>
+<<<<<<< HEAD
           First time listing on APEX WOLFE? <a>Read our sellers' guide.</a>
+=======
+          First time listing on APEX WOFLE? <a>Read our sellers' guide.</a>
+>>>>>>> d3cb360b23faa075d6ecefecfcec24569e88c9fb
         </p>
       </Row>
       <Row justify={width < 768 ? 'center' : 'start'}>
@@ -2055,7 +2059,7 @@ const WaitingStep = (props: {
     >
       <Progress type="circle" percent={progress} />
       <div className="waiting-title">
-        Your creation is being listed with Metaplex...
+        Your creation is being listed with APEX WOLFE...
       </div>
       <div className="waiting-subtitle">This can take up to 30 seconds.</div>
     </div>

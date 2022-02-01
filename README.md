@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Metaplex is a protocol built on top of Solana that allows:
+APEX WOLFE is a protocol built on top of Metaplex/Solana that allows:
 
 - **Creating/Minting** Non-Fungible Tokens;
 - **Starting** A variety of auctions for primary/secondary sales;
@@ -14,15 +14,44 @@ Metaplex is comprised of two core components: an on-chain program, and a self-ho
 
 ## Official Metaplex Docs and Guide
 
+<<<<<<< HEAD
 You can check out our docs at https://docs.metaplex.com/
+=======
+APEX WOLFE now follows a release versioning process called semantic versioning. If you are making a new market place, launching a candy machine or any live project that will handle real money, we recommend using a release tag. Using a release tag will ensure that new changes don't break your UI.
+
+
+
+### How to checkout a release
+```
+//If you are using a fork
+git fetch upstream --tags
+
+git checkout tags/<tag> // this will bring the contents of the tag into your current branch
+
+// OR 
+git checkout tags/<tag> -b <your local branch name> // this will make a new branch for you
+
+To swich to a new release
+
+git checkout tags/<tag> -b new_version_branch /// this will take the new tag and bring it into  anew branch
+//Switch back to the branch you want the new changes in
+git rebase new_version_branch
+```
+
+## In Depth Developer's Guide
+
+If you want to deep dive on the Architecture, you can do so here:
+
+https://docs.metaplex.com/
+>>>>>>> cc36095d5aa53c8a5ea274f92e798a7b44883bef
 
 ## Installing
 
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
-$ git clone https://github.com/metaplex-foundation/metaplex.git
-$ cd metaplex/js
+$ git clone https://github.com/jpburns82/APEXWOLFE.git
+$ cd APEXWOLFE/js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
 ```
@@ -34,13 +63,7 @@ Navigate to `http://localhost:3000/` to explore the deployed application.
 The Rust programs will soon be added to this repo with JavaScript
 bindings that allow interactivity.
 
-## Community
 
-We have a few channels for contact:
-
-- [Discord](https://discord.gg/metaplex)
-- [@metaplex](https://twitter.com/metaplex) on Twitter
-- [GitHub Issues](https://github.com/metaplex-foundation/metaplex/issues)
 
 # Protocol
 
